@@ -6,10 +6,12 @@ Welcome to the repository for our graduating class website! This website is dedi
 
 We are a diverse group of students enrolled in a dual-credit program that focuses on two main disciplines:
 
-1. Software Development
+1. **Software Development**
+
    Students in this track are currently pursuing a Software Development Diploma. We are learning various programming languages, software engineering principles, and practical application development.
 
-2. Networking and Cloud Administration
+2. **Networking and Cloud Administration**
+
    The other half of our class is dedicated to the Networking and Cloud Administration program. We cover subjects such as Cisco, CCNA, and other essential networking and cloud technologies.
 
 # Purpose of the Website
