@@ -1,4 +1,4 @@
-function MainPage() {
+function Home() {
   return (
     <main>
       <h1>PTEC Class of 2024</h1>
@@ -47,4 +47,4 @@ function MainPage() {
   );
 }
 
-export default MainPage;
+export default Home;
