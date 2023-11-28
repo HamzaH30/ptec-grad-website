@@ -1,11 +1,5 @@
-import SVGComponent from "./ptec-logo";
-
 function Header() {
-  return (
-    <header>
-      <SVGComponent />
-    </header>
-  );
+  return <header></header>;
 }
 
 export default Header;
